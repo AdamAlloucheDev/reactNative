@@ -36,7 +36,6 @@ export default function Deliveroo() {
                 />
                 <Text style={styles.adress}> Rue Yves Toudic</Text>
               </View>
-              <FontAwesomeIcon icon={faUserCircle} size={30} />
             </View>
 
             <View style={styles.btn}>
